@@ -1,31 +1,8 @@
-# Biography
+I am a doctoral candidate currently pursuing my PhD in Systems Neuroscience at Ruprecht-Karls-Universität Heidelberg. Proficient in multi-modal neuroimaging techniques, including EEG, MEG, and fMRI, my research centers on understanding the origin and role of the P300 brain marker. 
 
-I am a doctoral candidate in the research group of 
+## My Proficiencies Encompass:
 
-
-## My expertise spans across:
-
-- Intracranial electro-encephalography (iEEG)
-- Electro-encephalography (EEG)
-- Psychophysics
-- Cognitive neuroscience
-- Univariate statistics
-- Multivariate statistics
-- Bayesian statistics
-
-# Scientific publications
-
-
-## Connect with me:
-
-- 
-- 
-- 
-
-# Language and tools:
-
-Python | Matlab | 
-
-## My GitHub stats
-
-!GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- Experimental design and multi-dimensional data analysis.
+- Open-source software and hardware development.
+- Inverse modeling and brain network mapping.
+- Simulation modeling of cortical dipoles to predict source-sensor patterns.
