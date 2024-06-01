@@ -1,11 +1,10 @@
-I am a Medical Engineer (M.Sc.), currently pursuing my PhD in Computational Neuroscience at Ruprecht-Karls-Universität Heidelberg, Germany. I am proficient in multi-modal neuroimaging techniques, including EEG, MEG, and MRI/fMRI. 
-- My research centers around understanding the origin and role of the P300 brain marker.
+## Short Bio
 
-## Scientific Publications
-- Diptyajit Das, Marnie E. Shaw, Matti S. Hämäläinen, Andrew R. Dykstra, Laura Doll, Alexander Gutschalk,
- ["A role for retro-splenial cortex in the task-related P3 network," (2024)](https://doi.org/10.1016/j.clinph.2023.11.014)
+- Currently pursuing a **PhD in Computational Neuroscience** at **Ruprecht-Karls-Universität Heidelberg**, Germany.
 
-## Google Scholar
+- Proficient in **multi-modal neuroimaging techniques**: **EEG**, **MEG**, **MRI/fMRI**
+
+## Google Scholar (Scientific Publications)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=R1g1ogkAAAAJ&hl=en)
 
 
