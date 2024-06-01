@@ -5,6 +5,9 @@ I am a Medical Engineer (M.Sc.), currently pursuing my PhD in Computational Neur
 - Diptyajit Das, Marnie E. Shaw, Matti S. Hämäläinen, Andrew R. Dykstra, Laura Doll, Alexander Gutschalk,
  ["A role for retro-splenial cortex in the task-related P3 network," (2024)](https://doi.org/10.1016/j.clinph.2023.11.014)
 
+## Google Scholar
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=R1g1ogkAAAAJ&hl=en)
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dasdiptyajit&show_icons=true&theme=holi)
 
