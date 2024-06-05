@@ -5,8 +5,8 @@
 - Proficient in **multi-modal neuroimaging techniques**: **EEG**, **MEG**, **MRI/fMRI**
 
 ## Current projects:
-1. **COGITATE**: I am a core member of the DATA Release team for Cogitate porject at MPI. 
-Cogitate involves twelve different research institutions on three continents which employ three neuroimaging techniques in human neuroscience (fMRI, M-EEG and iEEG) in a large sample human volunteers and patients. (https://www.arc-cogitate.com/)
+1. **COGITATE**: I am a core member of the DATA Release team for Cogitate project at MPI. 
+Cogitate involves twelve different research institutions on three continents which employ three neuroimaging techniques in human neuroscience (fMRI, M-EEG and iEEG) in a large sample human volunteers and patients. More information can be found here: (https://www.arc-cogitate.com/)
 2. **Understanding the origin of P300 brain biomarker** using M-EEG: (https://github.com/AGutschalk-LAB) 
 
 ## Language and Tools
