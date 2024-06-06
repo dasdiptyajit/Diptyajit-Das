@@ -4,7 +4,7 @@
 
 - Proficient in **multi-modal neuroimaging techniques**: **EEG**, **MEG**, **MRI/fMRI**
 
-## Current projects
+## Current Projects
 1. **COGITATE**: I am a core member of the DATA Release team for Cogitate project at MPI. 
 Cogitate involves twelve different research institutions on three continents which employ three neuroimaging techniques in human neuroscience (fMRI, M-EEG and iEEG) in a large sample human volunteers and patients. More information can be found here: (https://www.arc-cogitate.com/)
 2. **Understanding the origin of P300 brain biomarker** using M-EEG: (https://github.com/AGutschalk-LAB) 
@@ -16,4 +16,5 @@ Cogitate involves twelve different research institutions on three continents whi
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=R1g1ogkAAAAJ&hl=en)
 
 ## My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasdiptyajit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasdiptyajit&theme=default)
+
