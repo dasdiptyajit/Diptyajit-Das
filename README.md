@@ -16,5 +16,4 @@ Cogitate involves twelve different research institutions on three continents whi
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=R1g1ogkAAAAJ&hl=en)
 
 ## My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasdiptyajit&theme=default)
-
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasdiptyajit&theme=github)
