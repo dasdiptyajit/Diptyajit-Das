@@ -1,5 +1,8 @@
+
+
 ## Short Bio
 
+#### Hi! 👋 I am Diptyajit! 
 - Currently pursuing a **PhD in Computational Neuroscience** at **Ruprecht-Karls-Universität Heidelberg**, Germany.
 
 - Proficient in **multi-modal neuroimaging techniques**: **EEG**, **MEG**, **MRI/fMRI**
